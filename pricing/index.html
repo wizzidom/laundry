@@ -2396,7 +2396,130 @@ data-widget="spacer" data-preset="default" data-spacing="saaa" data-visible-on="
 </div></div>
         </div>
     </div>
-</div><div class="moto-widget moto-widget-block moto-bg-color5_3 moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto" data-widget="block" data-spacing="lala" style="" data-bg-position="left top">
+</div>
+<style>
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table td,
+.table th {
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+  text-align: center;
+  font-size: 16px;
+}
+
+.table th {
+  background-color: #92c9e6;
+  color: #ffffff;
+}
+
+.table tbody tr {
+  background-color: #d1e8f5;
+}
+
+/*responsive*/
+
+@media (max-width: 500px) {
+  .table thead {
+    display: none;
+  }
+
+  .table,
+  .table tbody,
+  .table tr,
+  .table td {
+    display: block;
+    width: 100%;
+  }
+  .table tr {
+    margin-bottom: 15px;
+  }
+  .table td {
+    padding-left: 50%;
+    text-align: left;
+    position: relative;
+  }
+  .table td::before {
+    content: attr(data-label);
+    position: absolute;
+    left: 0;
+    width: 50%;
+    padding-left: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: left;
+  }
+}
+
+</style>
+<div class = "country">
+  <h1 style="text-align: center;">
+    Areas We Cover
+  </h1>  
+    
+
+<table class="table">
+    <thead>
+      <th>Sandton</th>
+      <th>Johannesburg</th>
+      <th>Other Areas</th>
+      
+    </thead>
+    <tbody>
+      <tr>
+        <td>Sandton</td>
+        <td >Rosebank & Parktown</td>
+        <td >Waterfall</td>
+       
+      </tr>
+  
+      <tr>
+        <td >Atholl</td>
+        <td >Braamfontein</td>
+        <td >Lanseria</td>
+   
+      </tr>
+  
+      <tr>
+        <td >Brynston</td>
+        <td >Fairland & Northcliff</td>
+        <td >Muldersdrift</td>
+      
+      </tr>
+  
+      <tr>
+        <td >Hurlingham</td>
+        <td >Weltevreden Park</td>
+        <td >Kyalami</td>
+       </tr>
+       <tr>
+        <td >Rivonia & Morningside</td>
+        <td >Roodepoort</td>
+        <td >Midrand</td>
+       </tr>
+       <tr>
+        <td >Hyde Park</td>
+        <td >Northriding & Northgate</td>
+     
+       </tr>
+       <tr>
+        <td >Sandhurst</td>
+        <td >Randburg & Ferndale,
+            Sunninghill, Lonehill and Fourways</td>
+        
+       </tr>
+    </tbody>
+  </table>
+  
+  
+
+</div>
+
+<div class="moto-widget moto-widget-block moto-bg-color5_3 moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-large moto-spacing-left-auto" data-widget="block" data-spacing="lala" style="" data-bg-position="left top">
     
     
     <div class="container-fluid">
