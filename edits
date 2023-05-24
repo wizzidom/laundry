@@ -5,12 +5,6 @@ table, th, td {
   border-collapse: collapse;
   padding : 10px;
 }
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-  padding : 10px;
-}
 td{
 width : 50%
 }
@@ -150,147 +144,52 @@ background-color: #28c1cb;
 	    <th >R85.00 p/kg</th>
   </tr>
 </table>
-
-
-
-td{
-width : 50%
-}
-tr th{
-background-color: #28c1cb;
-}
-</style>
-
-
+<br><br>
 <table style="width:100%">
   <tr>
-    <th colspan="3">PRICELIST 2023</th>
+    <th colspan="3">DRY CLEANING PRICES 2023</th>
 
   </tr>
-      <tr>
-    <th >CLOTHING</th>
-	    <th >PRICE PER KG(MIN 3KG)</th>
-  </tr>
+
   <tr>
-    <td>Wash - Dry - Iron</td>
-    <td>R50</td>
+    <td>Trouser</td>
+    <td>R100.00</td>
 
   </tr>
   <tr>
-    <td>Ironing Only</td>
-    <td>R45</td>
+    <td>School Blazer</td>
+    <td>R100.00</td>
 
   </tr>
     <tr>
-    <td>Wash - Dry</td>
-    <td>R47</td>
+    <td>Jackets</td>
+    <td>R140.00</td>
 
   </tr>
     <tr>
-    <td>Wash Only</td>
-    <td>R33</td>
-
-  </tr>
-    <tr>
-    <td>Dry Only(WET)</td>
-    <td>R46</td>
-
-  </tr>
-    <tr>
-    <td>Dry - Iron</td>
-    <td>R47</td>
-
-  </tr>
-    <tr>
-    <td>Ironing Shirt Only</td>
-    <td>R60 per shirt</td>
-
-  </tr>
-	      <tr>
-    <th >BEDDING(WASH AND DRY)</th>
-	    <th >PRICE PER KG</th>
-  </tr>
-      <tr>
-    <td>Blanket</td>
-    <td>R60</td>
+    <td>Suit</td>
+    <td>R215.00</td>
 
   </tr>
       <tr>
-    <td>Duvet Inner</td>
-    <td>R130</td>
+    <td>Waistcoat</td>
+    <td>R80.00</td>
 
   </tr>
       <tr>
-    <td>Comforter</td>
-    <td>R60</td>
+    <td>Tie</td>
+    <td>R55.00</td>
 
   </tr>
       <tr>
-    <td>Pillows</td>
-    <td>R140 each</td>
+    <td>3 Piece Suit</td>
+    <td>R295.00</td>
 
   </tr>
-  	      <tr>
-    <th >CURTAIN</th>
-	    <th >PRICE PER KG</th>
-  </tr>
-        <tr>
-    <td>Curtains</td>
-    <td>R100</td>
+      <tr>
+    <td>Coats(Short)</td>
+    <td>R170.00</td>
 
   </tr>
-    	      <tr>
-    <th >SHOES/SNEAKERS WASH</th>
-	    <th >PRICE PER PAIR</th>
-  </tr>
-          <tr>
-    <td>Adult Sneakers</td>
-    <td>R120</td>
-
-  </tr>
-          <tr>
-    <td>Adult Shoes</td>
-    <td>R100</td>
-
-  </tr>
-          <tr>
-    <td>Kids Shoes</td>
-    <td>R70</td>
-
-  </tr>
-          <tr>
-    <td>Kids Sneakers</td>
-    <td>R90</td>
-
-  </tr>
-    	      <tr>
-    <th >BAGS(WASH AND DRY)</th>
-	    <th >PRICE PER ITEM</th>
-  </tr>
-            <tr>
-    <td>School Bag</td>
-    <td>R70</td>
-
-  </tr>
-            <tr>
-    <td>Sports Bag</td>
-    <td>R70</td>
-
-  </tr>
-            <tr>
-    <td>Hand Bag</td>
-    <td>R70</td>
-
-  </tr>
-            <tr>
-    <td>Hand Bag(Leather/Suede)</td>
-    <td>R90</td>
-
-  </tr>
-      	      <tr>
-    <th >WASHABLE COVERS SEATS</th>
-	    <th >R85 p/kg</th>
-  </tr>
-</table>
 
 
