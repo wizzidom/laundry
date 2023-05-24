@@ -1,44 +1,144 @@
-<div class="moto-widget moto-widget-row row-fixed moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-grid-type="sm" data-widget="row" data-spacing="aaaa" style="" data-bg-position="left top">
-    
-    <div class="container-fluid">
-        <div class="row" data-container="container">
-            
-                
-                    <div class="moto-widget moto-widget-row__column moto-cell col-sm-6 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa" data-bg-position="left top">
-    
-<div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa" data-animation="">
-    <div class="moto-widget-text-content moto-widget-text-editable"><h3 class="moto-text_186">Bedding </h3></div>
-</div><div class="moto-widget moto-widget-row moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-grid-type="xs" data-widget="row" data-spacing="aaaa" style="" data-bg-position="left top">
-    
-    <div class="container-fluid">
-        <div class="row" data-container="container">
-            
-                
-                    <div class="moto-widget moto-widget-row__column moto-cell col-xs-8 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa" data-bg-position="left top">
-    
-        
-            <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aaaa" data-animation="">
-    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_209">Bath Mats/Kitchen Mats</p></div>
-</div>
-        
-    
-</div>
 
-                
-            
-                
-                    <div class="moto-widget moto-widget-row__column moto-cell col-xs-4 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" style="" data-widget="row.column" data-container="container" data-spacing="aaaa" data-bg-position="left top">
-    
-        
-            <div class="moto-widget moto-widget-text moto-preset-default moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aaaa" data-animation="">
-    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_209" style="text-align: right;"><span class="moto-color_custom5"></span><span class="moto-color_custom5">R70.00</span><span class="moto-color_custom5"></span></p></div>
-</div>
-        
-    
-</div>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td{
+width : 50%
+}
+</style>
 
-                
-            
-        </div>
-    </div>
-</div>
+
+<table style="width:100%">
+  <tr>
+    <th colspan="3">PRICELIST 2023</th>
+
+  </tr>
+      <tr>
+    <th >CLOTHING</th>
+	    <th >PRICE PER KG(MIN 3KG)</th>
+  </tr>
+  <tr>
+    <td>Wash - Dry - Iron</td>
+    <td>R50</td>
+
+  </tr>
+  <tr>
+    <td>Ironing Only</td>
+    <td>R45</td>
+
+  </tr>
+    <tr>
+    <td>Wash - Dry</td>
+    <td>R47</td>
+
+  </tr>
+    <tr>
+    <td>Wash Only</td>
+    <td>R33</td>
+
+  </tr>
+    <tr>
+    <td>Dry Only(WET)</td>
+    <td>R46</td>
+
+  </tr>
+    <tr>
+    <td>Dry - Iron</td>
+    <td>R47</td>
+
+  </tr>
+    <tr>
+    <td>Ironing Shirt Only</td>
+    <td>R60 per shirt</td>
+
+  </tr>
+	      <tr>
+    <th >BEDDING(WASH AND DRY)</th>
+	    <th >PRICE PER KG</th>
+  </tr>
+      <tr>
+    <td>Blanket</td>
+    <td>R60</td>
+
+  </tr>
+      <tr>
+    <td>Duvet Inner</td>
+    <td>R130</td>
+
+  </tr>
+      <tr>
+    <td>Comforter</td>
+    <td>R60</td>
+
+  </tr>
+      <tr>
+    <td>Pillows</td>
+    <td>R140 each</td>
+
+  </tr>
+  	      <tr>
+    <th >CURTAIN</th>
+	    <th >PRICE PER KG</th>
+  </tr>
+        <tr>
+    <td>Curtains</td>
+    <td>R100</td>
+
+  </tr>
+    	      <tr>
+    <th >Name</th>
+	    <th >Name</th>
+  </tr>
+          <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+
+  </tr>
+          <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+
+  </tr>
+          <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+
+  </tr>
+          <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+
+  </tr>
+    	      <tr>
+    <th >Name</th>
+	    <th >Name</th>
+  </tr>
+            <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+
+  </tr>
+            <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+
+  </tr>
+            <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+
+  </tr>
+            <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+
+  </tr>
+      	      <tr>
+    <th >WASHABLE COVERS SEATS</th>
+	    <th >R85 p/kg</th>
+  </tr>
+</table>
+
+
