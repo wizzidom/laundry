@@ -8,8 +8,8 @@ table, th, td {
 td{
 width : 50%
 }
-th{
-background-color : 
+tr th{
+background-color: #28c1cb;
 }
 </style>
 
